@@ -58,11 +58,16 @@ h1, h2, h3  {
   margin: 20px;
   border: 20px;
   padding: 10px;
-  background-color:  #d3d3d3;
-  color: black;
+  background-color: White ;
+  color: BLACK;
   text-align: left;
 }
-
+#student-group a:link { 
+color: #2471A3; 
+}
+#student-group a:visited { color: #2471A3; }
+#student-group a:hover { color: #17202A; }
+#student-group a:active { color: #17202A; }
 #footer {
   clear: both;
   padding: 10px;
@@ -100,3 +105,4 @@ table {
 th {
   height: 50px;
 }
+
