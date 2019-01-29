@@ -80,3 +80,9 @@ h1, h2, h3  {
   color: BLACK;
   text-align: left;
 }
+.center {
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: auto;
+  width: 15%;
+}
