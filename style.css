@@ -32,12 +32,14 @@ h1, h2, h3  {
 }
 
 #nav {
+  background-color: #FDFEFE;
   width: 150px;
   float: left;
   padding: 20px;
 }
 
 #nav ul {
+  color: #2C3E50; 
   list-style-type: none;
   padding: 0;
 }
@@ -77,13 +79,15 @@ color: #2471A3;
 }
 .schedule-date {
   font-weight: bold;
-  color: BLACK;
+  color: RED;
   text-align: right;
+  border: 3px solid BLACK;
 }
 .schedule-resources {
-  font-weight: lighter;
-  color: BLACK;
+  font-weight: bold;
+  color: #4D5656 ;
   text-align: left;
+  border: 3px solid BLACK;
 }
 .center {
   display: inline-block;
