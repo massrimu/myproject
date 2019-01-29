@@ -1,6 +1,6 @@
 body {
-    background-color: #EEE;
-    font-family: 'Sarabun',Helvetica, Arial, sans-serif;
+    background-color: WHEAT;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 a {
@@ -14,15 +14,15 @@ h1, h2, h3  {
 }
 
 #container {
-    background-color: white;
+    background-color: LIGHTGRAY;
     width: 1000px;
     margin-left: auto;
     margin-right:auto;
 }
 
 #header {
-    background-color: #18453B;
-    color: white;
+    background-color: CHOCOLATE;
+    color: DARKSLATEGRAY;
     text-align: center;
     padding: 10px;
 }
@@ -67,16 +67,16 @@ h1, h2, h3  {
   clear: both;
   padding: 10px;
   background-color: #97a2a2;
-  color: white;
+  color: BLACK;
   text-align: right;
 }
 .schedule-date {
   font-weight: bold;
-  color: black;
+  color: BLACK;
   text-align: right;
 }
 .schedule-resources {
   font-weight: lighter;
-  color: black;
+  color: BLACK;
   text-align: left;
 }
